@@ -23,8 +23,13 @@ form {
 
 .h2 {
     font-weight: 700;
+    color: blue;
     text-align: center;
     padding: 5px;
+}
+
+label {
+    color: brown
 }
 
 .btn {
@@ -39,8 +44,13 @@ form {
     font-weight: 200;
     background-color: blue;
     padding: 10px 20px;
+    border-radius: 10px;
 }
 
+.fp {
+    font-size: large;
+    width: 100%;
+}
 
 form {
     width: 50%;
